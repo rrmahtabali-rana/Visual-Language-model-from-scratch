@@ -1,4 +1,4 @@
-# Visual-Language-model-from-scratch
+# Nan0-Visual-Language-model-from-scratch
 Nano CLIP-style vision–language from scratch on synthetic geometric shapes (PyTorch).
 
 This repo contains a tiny **CLIP-style vision–language alignment** experiment trained **from scratch** on a fully synthetic dataset of geometric shapes.
