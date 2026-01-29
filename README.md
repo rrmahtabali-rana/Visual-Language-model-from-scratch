@@ -15,7 +15,7 @@ It is intentionally small and easy to understand:
 
 ## What’s inside
 
-- `VLM_from_scratch_shapes.ipynb`  
+- `Nano VLM_from_scratch.ipynb`  
   End-to-end notebook:
   1. Build synthetic dataset (243 samples)
   2. Train/val split (80/20)
